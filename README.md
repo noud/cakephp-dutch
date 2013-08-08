@@ -14,8 +14,8 @@ The master branch has the following requirements:
 * Clone/Copy the files in this directory into `app/Plugin/Dutch`
 * Ensure the plugin is loaded in `app/Config/bootstrap.php` like so:
 
-CakePlugin::load('Dutch');
-include CakePlugin::path('Dutch') . 'Config' . DS . 'inflections.php';
+`CakePlugin::load('Dutch');
+include CakePlugin::path('Dutch') . 'Config' . DS . 'inflections.php';`
 
 ### Using
 
