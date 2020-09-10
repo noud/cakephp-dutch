@@ -23,3 +23,7 @@ include CakePlugin::path('Dutch') . 'Config' . DS . 'inflections.php';
 
 This should give you elementry Dutch inflection rules.
 Any comments or additions welcome.
+
+## inspired
+This inflector inspired [Singularize and pluralize words in multiple languages](http://github.com/enflow/component-inflector) from [Enflow
+](http://enflow.nl)
